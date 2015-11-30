@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names-kkp",
+  "version": "1.0.0",
+  "description": "Get random starwars names from list",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://kkpalanisamy@github.com/kkpalanisamy/starwars-names-kkp.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "kkpalanisamy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkpalanisamy/starwars-names-kkp/issues"
+  },
+  "homepage": "https://github.com/kkpalanisamy/starwars-names-kkp",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
